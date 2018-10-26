@@ -1,0 +1,34 @@
+{
+  "basket": [
+    {
+      "name": "Food",
+      "price": 5,
+      "quantity": 50,
+      "cost": 250
+    },
+    {
+      "name": "Data",
+      "price": 50,
+      "quantity": 3,
+      "cost": 150
+    },
+    {
+      "name": "Rent",
+      "price": 800,
+      "quantity": 1,
+      "cost": 800
+    },
+    {
+      "name": "Candles",
+      "price": 2.5,
+      "quantity": 10,
+      "cost": 25
+    },
+    {
+      "name": "Utilities",
+      "price": 30,
+      "quantity": 5,
+      "cost": 150
+    }
+  ]
+}
